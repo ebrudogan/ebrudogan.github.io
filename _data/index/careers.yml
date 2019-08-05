@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Proda Bilişim
+  link: https://www.prodabilisim.com/
+  date: February 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Now"></i>
+  job: Software Engineer
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: İM Park Eğitim Bilişim
+  link: https://www.impark.com.tr/
+  date: February 2016 - August 2017
+  job: Unity3D Developer
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Meteksan Savunma
+  link: http://www.meteksan.com/
+  date: February 2012 - May 2012
+  job: Software Developer Internship
+
+- name: Tikle
+  link: http://www.tikle.com/
+  date: June 2011 - August 2011
+  job: Software Developer Internship
