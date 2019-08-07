@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Ebru Doğan
+email: ebru@ebrudogan.com
+description: Software Engineer
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "ebru", "dogan", "dogan", "website", "software", "programming"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Istanbul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Ebru Doğan
+  avatar: ebru.jpg
+  job: "Software Engineer"
+  bio: ""
+  email: ebru@ebrudogan.com
   disqus-shortname:
-  twitter: #username
+  twitter: EbruCodes
   facebook: #username
   google:
     plus: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ebrudogan
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
@@ -70,4 +70,8 @@ owner:
   reddit: #username
   telegram: #username
 
-theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "../_assets/images/ObjectInteraction/"
+    values:
+      image: true

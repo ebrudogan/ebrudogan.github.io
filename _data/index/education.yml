@@ -1,8 +1,9 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Middle East Technical University
+  link: https://www.metu.edu.tr/
+  date: September 2014 - June 2017
+  descr: Master’s Degree in Software Engineering
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Bilkent University
+  link: https://w3.bilkent.edu.tr/bilkent/
+  date: September 2009 - June 2013
+  descr: Computer Technology & Information Systems, <i>(%50 Scholarship)</i>
