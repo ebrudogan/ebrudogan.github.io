@@ -69,9 +69,3 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-
-defaults:
-  - scope:
-      path: "../_assets/images/ObjectInteraction/"
-    values:
-      image: true
